@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Brooks Fu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "I am a postdoctoral scholar at California Institute of Technology in the research groups of Prof. Ralph Adolphs and Prof. Ueli Rutishauser."
   links:
     - label: "Website"
